@@ -26,7 +26,7 @@
 <h2>Minhas redes socias para contato</h2>
 </div>
 
-<div style="display: inline-block"><br/>
+<div align="center" style="display: inline-block">
   <a href="https://www.instagram.com/m__lucaass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mariolucas.2000@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mario-lucas-9b11a1151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
