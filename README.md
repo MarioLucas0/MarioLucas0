@@ -19,11 +19,12 @@
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 </div>
-<div align="center>
+
+<div align="center">
+<h1>Minhas redes socias para contato</h1>
+</div>
 
 ## Minhas redes socias para contato
-
-</div>
 
 <div style="display: inline-block"><br/>
   <a href="https://www.instagram.com/m__lucaass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
