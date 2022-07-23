@@ -4,9 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLucas0&layout=compact&theme=dracula)](https://github.com/MarioLucas0/github-readme-stats)
 
-## Tecnologias que eu uso no meu dia
+<div align="center">
+<h2>Tecnologias que eu uso no meu dia</h2>
+</div>
 
-<div>
+<div align="center">
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -21,10 +23,8 @@
 </div>
 
 <div align="center">
-<h1>Minhas redes socias para contato</h1>
+<h2>Minhas redes socias para contato</h2>
 </div>
-
-## Minhas redes socias para contato
 
 <div style="display: inline-block"><br/>
   <a href="https://www.instagram.com/m__lucaass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
