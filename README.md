@@ -1,8 +1,11 @@
 ## Ola! Eu sou Mario Lucas 🖐️
 
-![Mario Lucas Git stats](https://github-readme-stats.vercel.app/api?username=MarioLucas0&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLucas0&layout=compact&theme=dracula)](https://github.com/MarioLucas0/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioLucas0&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLucas0&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 <div align="center">
 <h2>Tecnologias que eu uso no meu dia</h2>
