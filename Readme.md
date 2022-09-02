@@ -22,7 +22,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <div align="center">
