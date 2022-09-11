@@ -22,7 +22,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2017%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -68,7 +68,7 @@ Windows                  15 hrs 17 mins      ███████████�
 ```
 
 
- Last Updated on 10/09/2022 02:28:54 UTC
+ Last Updated on 11/09/2022 02:27:25 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
