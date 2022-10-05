@@ -116,7 +116,7 @@ Windows                  39 hrs 34 mins      ███████████�
 </a>  
 
 <a href="https://github.com/MarioLucas0/Ds-Catalog">
- <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=DSMeta&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+ <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Ds-Catalog&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 
 <a href="https://github.com/MarioLucas0/NLW---ESPORTES">
