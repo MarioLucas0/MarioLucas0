@@ -99,6 +99,10 @@ Windows                  39 hrs 34 mins      ███████████�
   <a href="https://www.linkedin.com/in/mario-lucas-9b11a1151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<a href="https://github.com/MarioLucas0/Page-Pokemon">  
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=marcosbarker&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
+</a>
+
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
