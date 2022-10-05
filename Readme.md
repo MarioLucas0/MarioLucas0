@@ -147,10 +147,6 @@ Windows                  39 hrs 34 mins      ███████████�
 
 
 <div align="center" style="display: inline-block">
-  <a href="https://www.instagram.com/m__lucaass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mariolucas.2000@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mario-lucas-9b11a1151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <a href="https://github.com/MarioLucas0/Page-Pokemon">
   <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
@@ -170,7 +166,7 @@ Windows                  39 hrs 34 mins      ███████████�
 <a href="https://github.com/MarioLucas0/NLW---ESPORTES">
   <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=NLW---ESPORTES&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
-
+</div>
 
 
 
