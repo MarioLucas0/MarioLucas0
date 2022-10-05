@@ -98,11 +98,12 @@ Windows                  39 hrs 34 mins      ███████████�
   <a href = "mariolucas.2000@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mario-lucas-9b11a1151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <a href="https://github.com/MarioLucas0/Page-Pokemon">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/Calculator-in-React">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Calculator-in-React&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Calculator-in-React&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/Game-Flappy-Bird">
   <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Game-Flappy-Bird&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
