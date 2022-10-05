@@ -100,10 +100,11 @@ Windows                  39 hrs 34 mins      ███████████�
 </div>
 
 <a href="https://github.com/MarioLucas0/Page-Pokemon">  
-  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=serratec.residencia&bg_color=0,3AFC55,52fa5a,52fa5a,ffc64d&theme=graywhite" loading="lazy"/>
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=github-readme-stats" loading="lazy"/>
 </a>
 
 <div align="center">
+ 
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
