@@ -6,7 +6,7 @@
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rishavchanda" /> </p>
+    alt="mariolucas" /> </p>
 
 <p align="left"> <a href="https://twitter.com/MLucas022" target="blank"><img
       src="https://img.shields.io/twitter/follow/MLucas022?logo=twitter&style=for-the-badge" alt="MLucas022" /></a> </p>
@@ -80,10 +80,10 @@
         alt="typescript" width="40" height="40" /> </a> </p>
 
 
-<div align="center" >
+<div width="100%" align="center" >
   <a href="https://github.com/MarioLucas0">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarioLucas0&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img  width="50%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLucas0&theme=dracula&hide_border=false&&layout=compact"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MarioLucas0&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLucas0&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
