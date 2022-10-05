@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=414a4c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mario+Lucas;I%27m+22+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400"
