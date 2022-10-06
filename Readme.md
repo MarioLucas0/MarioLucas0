@@ -79,15 +79,15 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" /> </a> </p>
 
-
+<!--
 <div width="100%" align="center" >
   <a href="https://github.com/MarioLucas0">
-    <img  width="47.7%"  src="https://github-readme-stats.vercel.app/api?username=MarioLucas0&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    
+    <img  width="47.7%"  src="https://github-readme-stats.vercel.app/api?username=MarioLucas0&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>  
  <img  width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLucas0&theme=dracula&hide_border=false&&layout=compact"/>
-    
   </a>
 </div>
+-->
+
 
 <div width="100%" align="center" >
 ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
