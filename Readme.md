@@ -96,10 +96,10 @@
 <br/>
 <div align="center" >
 <a>
-  <img src="https://camo.githubusercontent.com/38440fca5cd74842866300677da0a6a9189affc62d7fdf1b0718d3aa03654454/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26637573746f6d5f7469746c653d7e2532307e2532307e2532304d7925323050726f66696c65253230436f6e747269627574696f6e25323047726170682532307e2532307e2532307e26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
-  <!--
-  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=MarioLucas0&bg_color=ffffff&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" loading="lazy"/>
--->
+ 
+
+  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=MarioLucas0&bg_color=black&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" loading="lazy"/>
+
 </a>
 </div>
 
