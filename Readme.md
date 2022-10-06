@@ -157,8 +157,8 @@ Windows                  32 hrs 9 mins       ███████████�
 
 <div align="center" style="display: inline-block">
 
-<a style="margin-right: 30px" href="https://github.com/MarioLucas0/Page-Pokemon">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+<a  href="https://github.com/MarioLucas0/Page-Pokemon">
+  <img height="50%" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/Calculator-in-React">
   <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Calculator-in-React&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
@@ -181,5 +181,7 @@ Windows                  32 hrs 9 mins       ███████████�
 
 
 <div align="center"> 
+  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
