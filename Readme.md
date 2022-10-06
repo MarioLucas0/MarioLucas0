@@ -79,6 +79,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
         alt="typescript" width="40" height="40" /> </a> </p>
 </div>
+<br/>
 
 <div width="100%" align="center" >
   <a href="https://github.com/MarioLucas0">
@@ -174,9 +175,6 @@ Windows                  32 hrs 9 mins       ███████████�
 
 
 
-<div align="center">
- 
-  
+<div align="center"> 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
