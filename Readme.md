@@ -153,27 +153,25 @@ Windows                  32 hrs 9 mins       ███████████�
  Last Updated on 06/10/2022 02:05:41 UTC
 <!--END_SECTION:waka-->
 
-
-
-<div align="center" style="display: inline-block" width="100%">
-
+<div align="center" style="display: grid"  style="grid-template-columns: repeat(2,1fr)">
+    
 <a  href="https://github.com/MarioLucas0/Page-Pokemon">
-  <img height="50%" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="100%" width="100%" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/Calculator-in-React">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Calculator-in-React&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Calculator-in-React&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/Game-Flappy-Bird">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Game-Flappy-Bird&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Game-Flappy-Bird&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/DSMeta">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=DSMeta&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=DSMeta&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/DSCatalog">
- <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=DSCatalog&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+ <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=DSCatalog&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/NLW---ESPORTES">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=NLW---ESPORTES&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="100%" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=NLW---ESPORTES&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 </div>
 
