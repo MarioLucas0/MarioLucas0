@@ -38,7 +38,7 @@
 <h3 align="left">Idiomas e ferramentas:</h3>
 
 <div width="100%" align="center" >
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
