@@ -155,7 +155,7 @@ Windows                  32 hrs 9 mins       ███████████�
 
 
 
-<div align="center" style="display: inline-block">
+<div align="center" style="display: inline-block" width="100%">
 
 <a  href="https://github.com/MarioLucas0/Page-Pokemon">
   <img height="50%" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
