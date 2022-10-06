@@ -98,7 +98,7 @@
 <a>
  
 
-  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=MarioLucas0&bg_color=161B22&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" loading="lazy"/>
+  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=MarioLucas0&bg_color=282A36&color=000000&line=3AFC55&point=c64dff&area=true&hide_border=true" loading="lazy"/>
 
 </a>
 </div>
