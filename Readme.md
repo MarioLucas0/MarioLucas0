@@ -161,7 +161,7 @@ Windows                  17 hrs 45 mins      ███████████�
   <img height="50%" width="48%" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/Calculator-in-React">
-  <img height="55%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Calculator-in-React&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Calculator-in-React&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/Game-Flappy-Bird">
   <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Game-Flappy-Bird&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
