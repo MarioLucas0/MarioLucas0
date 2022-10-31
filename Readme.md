@@ -180,7 +180,7 @@ Windows                  49 hrs 39 mins      ███████████�
 </a>  
   </a>  
   <a href="https://github.com/MarioLucas0/Game-mario">
-  <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Game-mario&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="50%" width="152px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Game-mario&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>
 </div>
 
