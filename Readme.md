@@ -161,7 +161,7 @@ Windows                  49 hrs 39 mins      ███████████�
   <img height="50%" width="48%" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Page-Pokemon&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
    <a href="https://github.com/MarioLucas0/Consumindo-ApiGithub ">
-  <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Consumindo-ApiGithub &bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+  <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Consumindo-ApiGithub&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
   </a>  
 <a href="https://github.com/MarioLucas0/Game-Flappy-Bird">
   <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Game-Flappy-Bird&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
