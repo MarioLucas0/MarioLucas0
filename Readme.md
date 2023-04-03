@@ -166,8 +166,8 @@ Windows                  19 hrs 25 mins      ███████████�
 <a href="https://github.com/MarioLucas0/DSMeta">
   <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=DSMeta&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
-<a href="https://github.com/MarioLucas0/DSCatalog">
- <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=DSCatalog&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
+<a href="https://github.com/MarioLucas0/Intranet-Werner-Front">
+ <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=Intranet-Werner-Front&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
 </a>  
 <a href="https://github.com/MarioLucas0/NLW---ESPORTES">
   <img height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarioLucas0&repo=NLW---ESPORTES&bg_color=0,3B93E6,4dfcff,3AFC55&theme=graywhite" loading="lazy"/>
