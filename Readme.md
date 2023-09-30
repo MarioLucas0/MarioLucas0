@@ -135,19 +135,17 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-YAML                     1 hr 50 mins        ██████████████████████░░░   88.55 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/09/2023 01:09:36 UTC
+ Last Updated on 30/09/2023 01:08:01 UTC
 <!--END_SECTION:waka-->
 
 <div align="center" style="display: grid"  style="grid-template-columns: repeat(2,1fr)">
