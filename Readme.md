@@ -135,17 +135,19 @@ Sunday                   171 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 35 mins       █████████████████████████   99.79 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/10/2023 01:10:13 UTC
+ Last Updated on 19/10/2023 01:09:56 UTC
 <!--END_SECTION:waka-->
 
 <div align="center" style="display: grid"  style="grid-template-columns: repeat(2,1fr)">
