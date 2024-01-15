@@ -106,7 +106,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C261%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C265%20hrs%2036%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -149,7 +149,7 @@ Windows                  8 hrs 9 mins        ███████████�
 ```
 
 
- Last Updated on 14/01/2024 01:19:47 UTC
+ Last Updated on 15/01/2024 01:17:13 UTC
 <!--END_SECTION:waka-->
 
 <div align="center" style="display: grid"  style="grid-template-columns: repeat(2,1fr)">
